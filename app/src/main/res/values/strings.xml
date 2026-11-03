@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PikRakshak</string>
+    <string name="welcome">Welcome</string>
+    <string name="farmer">Farmer</string>
+    <string name="buyer">Buyer</string>
+    <string name="seller">Seller</string>
+    <string name="storage_owner">Storage Owner</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="nearby_storage">Nearby Storage</string>
+    <string name="my_profile">My Profile</string>
+    <string name="logout">Logout</string>
+
+    <string name="tagline">Protect your harvest. Grow your future.</string>
+    <string name="create_account">Create your account</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="signup_subtitle">Start protecting your produce today.</string>
+    <string name="login_subtitle">Sign in to continue your journey.</string>
+    <string name="email_address">EMAIL ADDRESS</string>
+    <string name="password">PASSWORD</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="create_account_button">CREATE ACCOUNT →</string>
+    <string name="login_button">LOGIN →</string>
+    <string name="already_registered">Already registered? Login</string>
+    <string name="new_to_app">New to PikRakshak? Create account</string>
+    <string name="farming_footer">SMART FARMING • LESS WASTE • BETTER FUTURE</string>
+    <string name="please_enter_email">Please enter your email.</string>
+    <string name="password_minimum">Password must contain at least 6 characters.</string>
+    <string name="auth_failed">Authentication failed.</string>
+</resources>

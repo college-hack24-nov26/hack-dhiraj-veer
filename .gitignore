@@ -1,0 +1,23 @@
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Kotlin
+.kotlin/
+
+# Local computer configuration
+local.properties
+
+# Generated Android files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Logs
+*.log

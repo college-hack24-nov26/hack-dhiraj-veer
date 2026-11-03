@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161544018526",
+    "project_id": "pikrakshak-bde7f",
+    "storage_bucket": "pikrakshak-bde7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161544018526:android:68946c9de0aff0840372cf",
+        "android_client_info": {
+          "package_name": "com.example.pikrakshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161544018526-kqshvi89im9go9m93mtc08i7kcs1r6g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVflpEK_xDqlLYKWKJNAk3Bfz5IfqewcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161544018526-kqshvi89im9go9m93mtc08i7kcs1r6g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

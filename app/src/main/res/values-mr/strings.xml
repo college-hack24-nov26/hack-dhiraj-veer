@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">पिकरक्षक</string>
+    <string name="welcome">स्वागत आहे</string>
+    <string name="farmer">शेतकरी</string>
+    <string name="buyer">खरेदीदार</string>
+    <string name="seller">विक्रेता</string>
+    <string name="storage_owner">स्टोरेज मालक</string>
+    <string name="marketplace">बाजारपेठ</string>
+    <string name="nearby_storage">जवळील गोदामे</string>
+    <string name="my_profile">माझे प्रोफाइल</string>
+    <string name="logout">बाहेर पडा</string>
+
+    <string name="tagline">तुमच्या पिकांचे संरक्षण करा. उज्ज्वल भविष्य घडवा.</string>
+    <string name="create_account">तुमचे खाते तयार करा</string>
+    <string name="welcome_back">पुन्हा स्वागत आहे!</string>
+    <string name="signup_subtitle">आजच तुमच्या शेतमालाचे संरक्षण सुरू करा.</string>
+    <string name="login_subtitle">पुढे जाण्यासाठी लॉगिन करा.</string>
+    <string name="email_address">ईमेल पत्ता</string>
+    <string name="password">पासवर्ड</string>
+    <string name="enter_email">तुमचा ईमेल टाका</string>
+    <string name="enter_password">तुमचा पासवर्ड टाका</string>
+    <string name="create_account_button">खाते तयार करा →</string>
+    <string name="login_button">लॉगिन करा →</string>
+    <string name="already_registered">आधीच खाते आहे? लॉगिन करा</string>
+    <string name="new_to_app">PikRakshak वर नवीन आहात? खाते तयार करा</string>
+    <string name="farming_footer">स्मार्ट शेती • कमी नुकसान • चांगले भविष्य</string>
+    <string name="please_enter_email">कृपया ईमेल टाका.</string>
+    <string name="password_minimum">पासवर्डमध्ये किमान ६ अक्षरे असणे आवश्यक आहे.</string>
+    <string name="auth_failed">प्रमाणीकरण अयशस्वी झाले.</string>
+</resources>
